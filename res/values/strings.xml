@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MorseCodeTyper</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text">Please enter message here</string>
+    <string name="button_on_off">On/Off</string>
+    <string name="beep">make beep sound too</string>
+
+</resources>
